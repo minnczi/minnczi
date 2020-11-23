@@ -1,6 +1,4 @@
-### Hi there 👋
-
-#### My name is Minji Kim
+### Hi there 👋 My name is Minji Kim
 
 - 😄 I am: A business analyst / **product developer** who **fell in love with programming**
 - 🌱 I’m currently learning: Web development and **cloud based (MSA) service development** using AWS
