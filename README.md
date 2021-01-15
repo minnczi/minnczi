@@ -4,7 +4,7 @@
 - 😄  I am: A business analyst / **product developer** who **fell in love with programming**
 - 🌱  I’m currently learning: Web Service Development with Python (mainly using Django and Vue)
 
-- 📫  How to reach me at: kmj1995kr@gmail.com
+- 📫  You can reach me at: kmj1995kr@gmail.com
 - 💬  My TIL Vlog: https://minnczi.github.io/
 
 
