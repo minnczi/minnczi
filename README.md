@@ -3,7 +3,7 @@
 
 - 😄  I am: A business analyst / **product developer** who **fell in love with programming**
 - 🌱  I’m currently learning: Web Service Development with Python (mainly using Django and Vue)
-- 💻  My main stack: Python(Django, DRF), SQL, Docker/K8s
+- 💻  My main tech stack: Python(Django, DRF), SQL, Docker/K8s
 
 - 📫  You can reach me at: kmj1995kr@gmail.com
 - 💬  My TIL Vlog: https://minnczi.github.io/
