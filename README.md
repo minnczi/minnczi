@@ -1,5 +1,5 @@
 ## Hi there 👋 
-### My name is Minji Kim  
+### My name is Minji Kim   
 
 - 😄  I am: A business analyst / **product developer** who **fell in love with programming**
 - 🌱  I’m currently learning: Web Service Development with Python (mainly using Django and Vue)
