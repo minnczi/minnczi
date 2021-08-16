@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/vue.js%20-%2341B883.svg?&style=for-the-badge&logo=vuejs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vue.js%20-%2341B883.svg?&style=for-the-badge&logo=vue.js&logoColor=white"/>
 </p>
 
 #### Backend 
