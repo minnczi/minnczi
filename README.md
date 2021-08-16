@@ -1,20 +1,33 @@
-## Hi there 👋 
-### My name is Minji Kim   
+## Hi there 👋 My name is Minji Kim   
 
 - 😄  I am: A business analyst / **product developer** who **fell in love with programming**
 - 📫  You can reach me at: kmj1995kr@gmail.com
 - 💬  My TIL Vlog: https://minnczi.github.io/
 - 
 
-### 💻 My Tech Stack
-#### 💻 Languages
+### My Tech Stack
+#### Frontend (+ Web Frameworks)
 <p>
-<img src="https://img.shields.io/badge/python%20-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/java%20-%235382A1.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vue%20-%2341B883.svg?&style=for-the-badge&logo=vue&logoColor=white"/>
 </p>
 
-#### Framework
+#### Backend 
+<p>
+  <img src="https://img.shields.io/badge/python%20-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/java%20-%235382A1.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-%23092E20.svg?&style=for-the-badge&logo=Django&logoColor=white"/>
+</p>
+
+#### Database & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/Amazon_AWS-%23232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-%23232F3E.svg?&style=for-the-badge&logo=sql&logoColor=white" />
+</p>
+
+#### Frameworks
 
 <br>
 
