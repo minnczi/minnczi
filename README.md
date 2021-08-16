@@ -2,15 +2,17 @@
 ### My name is Minji Kim   
 
 - 😄  I am: A business analyst / **product developer** who **fell in love with programming**
-
 - 📫  You can reach me at: kmj1995kr@gmail.com
 - 💬  My TIL Vlog: https://minnczi.github.io/
+- 
 
 ### 💻 My Tech Stack
-#### Languages
+#### 💻 Languages
+<p>
 <img src="https://img.shields.io/badge/python%20-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/java%20-%235382A1.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+</p>
 
 #### Framework
 
