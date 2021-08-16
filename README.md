@@ -4,6 +4,8 @@
 - 📫  You can reach me at: kmj1995kr@gmail.com
 - 💬  My TIL Vlog: https://minnczi.github.io/
 
+<hr>
+
 ### My Tech Stack
 #### Frontend (+ Web Frameworks)
 <p>
@@ -26,6 +28,7 @@
   <img src="https://img.shields.io/badge/SQL-%23232F3E.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
+<hr>
 
 <br>
 
