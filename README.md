@@ -3,7 +3,6 @@
 - 😄  I am: A business analyst / **product developer** who **fell in love with programming**
 - 📫  You can reach me at: kmj1995kr@gmail.com
 - 💬  My TIL Vlog: https://minnczi.github.io/
-- 
 
 ### My Tech Stack
 #### Frontend (+ Web Frameworks)
@@ -24,10 +23,9 @@
 #### Database & Infrastructure
 <p>
   <img src="https://img.shields.io/badge/Amazon_AWS-%23232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-%23232F3E.svg?&style=for-the-badge&logo=sql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-%23232F3E.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-#### Frameworks
 
 <br>
 
