@@ -1,6 +1,6 @@
 ## Hi there 👋 My name is Minji Kim   
 
-- 😄  I am: A business analyst / **product developer** who **fell in love with programming**
+- 😄  I am: A Software Engineer (+ with backgrounds in UI/UX design and business)
 - 📫  You can reach me at: kmj1995kr@gmail.com
 - 💬  My TIL Vlog: https://minnczi.github.io/
 
