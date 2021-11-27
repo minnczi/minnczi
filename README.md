@@ -32,8 +32,8 @@
 <hr>
 
 ### Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=minnczi)](https://github.com/minnczi/minnczi)
+
 
 <br>
 
