@@ -1,8 +1,8 @@
 ## Hi there 👋 My name is Minji Kim   
 
-- 😄  I am: A Software Engineer (+ with backgrounds in UI/UX design and business)
+- 😄  I am: A Software Engineer (+ with backgrounds business and Human Computer Interaction(HCI))
 - 📫  You can reach me at: kmj1995kr@gmail.com
-- 💬  My TIL Vlog: https://minnczi.github.io/
+- 💬  My TIL Blog: https://minnczi.github.io/
 - 💻  My Daily TIL Repository: https://github.com/minnczi/TIL
 
 <hr>
