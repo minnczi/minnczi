@@ -31,11 +31,11 @@
 
 <hr>
 
-<br>
-
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+<br>
 
 [![minnczi's GitHub stats](https://github-readme-stats.vercel.app/api?username=minnczi&count_private=true&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
