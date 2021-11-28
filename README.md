@@ -33,11 +33,11 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [내 생애 첫 Github Opensource Contribution 도전기](https://velog.io/@minnczi/%EB%82%B4-%EC%83%9D%EC%95%A0-%EC%B2%AB-Github-Opensource-Contribution-%EB%8F%84%EC%A0%84%EA%B8%B0)
 - [GitHub Token Authentication으로 바꾸기](https://velog.io/@minnczi/GitHub-Token-Authentication%EC%9C%BC%EB%A1%9C-%EB%B0%94%EA%BE%B8%EA%B8%B0)
 - [Java 기본 문법: 클래스와 객체 &lpar;Class and Objects&rpar;](https://velog.io/@minnczi/Java-%EA%B8%B0%EB%B3%B8-%EB%AC%B8%EB%B2%95-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80-%EA%B0%9D%EC%B2%B4-Class-and-Objects)
 - [Java 기본 문법: 배열&lpar;Array&rpar;](https://velog.io/@minnczi/Java-%EA%B8%B0%EB%B3%B8%EB%AC%B8%EB%B2%95-%EB%B0%B0%EC%97%B4)
 - [Java 기본 문법: 데이터 타입, 변수 &lpar;Data Type, Variables&rpar;](https://velog.io/@minnczi/Java-%EA%B8%B0%EB%B3%B8%EB%AC%B8%EB%B2%95-%EB%B3%80%EC%88%98-Variables)
-- [Django로 CRUD 웹사이트 만들기 1: 프로젝트 시작하기](https://velog.io/@minnczi/Django%EB%A1%9C-CRUD-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-1-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
 <!-- BLOG-POST-LIST:END -->
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=minnczi)](https://github.com/minnczi/minnczi)
