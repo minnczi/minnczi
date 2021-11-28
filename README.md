@@ -43,7 +43,6 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=minnczi)](https://github.com/minnczi/minnczi)
 
 
-<br>
 <hr>
 
 [![minnczi's GitHub stats](https://github-readme-stats.vercel.app/api?username=minnczi&count_private=true&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
