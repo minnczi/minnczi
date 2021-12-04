@@ -1,6 +1,6 @@
 ## Hi there 👋 My name is Minji Kim   
 
-- 😄  I am: A Software Engineer (+ with backgrounds business and Human Computer Interaction(HCI))
+- 😄  I am: A Software Engineer (+ with backgrounds in business and Human Computer Interaction(HCI))
 - 📫  You can reach me at: kmj1995kr@gmail.com
 - 💬  My TIL Blog: https://minnczi.github.io/
 - 💻  My Daily TIL Repository: https://github.com/minnczi/TIL
