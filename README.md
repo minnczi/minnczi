@@ -32,6 +32,7 @@
 <hr>
 
 ### Latest Blog Posts
+<p>
 <!-- BLOG-POST-LIST:START -->
 - [내 생애 첫 Github Opensource Contribution 도전기](https://velog.io/@minnczi/%EB%82%B4-%EC%83%9D%EC%95%A0-%EC%B2%AB-Github-Opensource-Contribution-%EB%8F%84%EC%A0%84%EA%B8%B0)
 - [GitHub Token Authentication으로 바꾸기](https://velog.io/@minnczi/GitHub-Token-Authentication%EC%9C%BC%EB%A1%9C-%EB%B0%94%EA%BE%B8%EA%B8%B0)
@@ -39,8 +40,9 @@
 - [Java 기본 문법: 배열&lpar;Array&rpar;](https://velog.io/@minnczi/Java-%EA%B8%B0%EB%B3%B8%EB%AC%B8%EB%B2%95-%EB%B0%B0%EC%97%B4)
 - [Java 기본 문법: 데이터 타입, 변수 &lpar;Data Type, Variables&rpar;](https://velog.io/@minnczi/Java-%EA%B8%B0%EB%B3%B8%EB%AC%B8%EB%B2%95-%EB%B3%80%EC%88%98-Variables)
 <!-- BLOG-POST-LIST:END -->
-
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=minnczi)](https://github.com/minnczi/minnczi)
+</p>
+
 
 
 <hr>
