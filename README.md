@@ -1,6 +1,6 @@
 ## Hi there 👋 My name is Minji Kim   
 
-- 😄  I am: A Software Engineer (+ with backgrounds business and Human Computer Interaction(HCI))
+- 😄  I am: A Software Engineer (+ with backgrounds in business and Human Computer Interaction(HCI))
 - 📫  You can reach me at: kmj1995kr@gmail.com
 - 💬  My TIL Blog: https://minnczi.github.io/
 - 💻  My Daily TIL Repository: https://github.com/minnczi/TIL
@@ -16,14 +16,22 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [내 생애 첫 Github Opensource Contribution 도전기](https://velog.io/@minnczi/%EB%82%B4-%EC%83%9D%EC%95%A0-%EC%B2%AB-Github-Opensource-Contribution-%EB%8F%84%EC%A0%84%EA%B8%B0)
+- [GitHub Token Authentication으로 바꾸기](https://velog.io/@minnczi/GitHub-Token-Authentication%EC%9C%BC%EB%A1%9C-%EB%B0%94%EA%BE%B8%EA%B8%B0)
+- [Java 기본 문법: 클래스와 객체 &lpar;Class and Objects&rpar;](https://velog.io/@minnczi/Java-%EA%B8%B0%EB%B3%B8-%EB%AC%B8%EB%B2%95-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80-%EA%B0%9D%EC%B2%B4-Class-and-Objects)
+- [Java 기본 문법: 배열&lpar;Array&rpar;](https://velog.io/@minnczi/Java-%EA%B8%B0%EB%B3%B8%EB%AC%B8%EB%B2%95-%EB%B0%B0%EC%97%B4)
+- [Java 기본 문법: 데이터 타입, 변수 &lpar;Data Type, Variables&rpar;](https://velog.io/@minnczi/Java-%EA%B8%B0%EB%B3%B8%EB%AC%B8%EB%B2%95-%EB%B3%80%EC%88%98-Variables)
 <!-- BLOG-POST-LIST:END -->
-
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=minnczi)](https://github.com/minnczi/minnczi)
 
 
-<br>
 
-[![minnczi's GitHub stats](https://github-readme-stats.vercel.app/api?username=minnczi&count_private=true&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+<hr>
+
+<p>
+<img src = "https://github-readme-stats.vercel.app/api?username=minnczi&count_private=true&show_icons=true&theme=omni">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=minnczi&langs_count=4&theme=omni">
+</p>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzerii%2Fhit-counter&count_bg=%2347A3FF&title_bg=%23D49CFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
