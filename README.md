@@ -6,28 +6,11 @@
 - 💻  My Daily TIL Repository: https://github.com/minnczi/TIL
 
 <hr>
-
 ### My Tech Stack
-#### Frontend (+ Web Frameworks)
-<p>
-  <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/vue.js%20-%2341B883.svg?&style=for-the-badge&logo=vue.js&logoColor=white"/>
-</p>
 
-#### Backend 
-<p>
-  <img src="https://img.shields.io/badge/python%20-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/java%20-%235382A1.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-%23092E20.svg?&style=for-the-badge&logo=Django&logoColor=white"/>
-</p>
+| Frontend (+ Web Frameworks)<br/>  <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>  <img src="https://img.shields.io/badge/vue.js%20-%2341B883.svg?&style=for-the-badge&logo=vue.js&logoColor=white"/><br /><br />Backend <br /><p><br/>  <img src="https://img.shields.io/badge/python%20-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>  <img src="https://img.shields.io/badge/java%20-%235382A1.svg?&style=for-the-badge&logo=java&logoColor=white"/>  <img src="https://img.shields.io/badge/Django-%23092E20.svg?&style=for-the-badge&logo=Django&logoColor=white"/></p><br /><br />Database & Infrastructure<br /><p><br/>  <img src="https://img.shields.io/badge/Amazon_AWS-%23232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white" />  <img src="https://img.shields.io/badge/SQL-%23232F3E.svg?&style=for-the-badge&logo=mysql&logoColor=white" /></p> | <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=minnczi&langs_count=4&theme=omni"> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 
-#### Database & Infrastructure
-<p>
-  <img src="https://img.shields.io/badge/Amazon_AWS-%23232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-%23232F3E.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
 
 <hr>
 
