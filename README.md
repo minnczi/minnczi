@@ -22,8 +22,7 @@
 - [Java 기본 문법: 클래스와 객체 &lpar;Class and Objects&rpar;](https://velog.io/@minnczi/Java-%EA%B8%B0%EB%B3%B8-%EB%AC%B8%EB%B2%95-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80-%EA%B0%9D%EC%B2%B4-Class-and-Objects)
 - [Java 기본 문법: 배열&lpar;Array&rpar;](https://velog.io/@minnczi/Java-%EA%B8%B0%EB%B3%B8%EB%AC%B8%EB%B2%95-%EB%B0%B0%EC%97%B4)
 - [Java 기본 문법: 데이터 타입, 변수 &lpar;Data Type, Variables&rpar;](https://velog.io/@minnczi/Java-%EA%B8%B0%EB%B3%B8%EB%AC%B8%EB%B2%95-%EB%B3%80%EC%88%98-Variables)
-<!-- BLOG-POST-LIST:END -->|
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=minnczi)](https://github.com/minnczi/minnczi) |
+<!-- BLOG-POST-LIST:END -->| [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=minnczi)](https://github.com/minnczi/minnczi) |
 | :------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
