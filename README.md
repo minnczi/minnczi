@@ -17,11 +17,11 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [00.1 Gradle Wrapper로 Spring Boot프로젝트 실행하기](https://velog.io/@minnczi/00.1-Gradle-Wrapper%EB%A1%9C-Spring-Boot%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0)
 - [내 생애 첫 Github Opensource Contribution 도전기](https://velog.io/@minnczi/%EB%82%B4-%EC%83%9D%EC%95%A0-%EC%B2%AB-Github-Opensource-Contribution-%EB%8F%84%EC%A0%84%EA%B8%B0)
 - [GitHub Token Authentication으로 바꾸기](https://velog.io/@minnczi/GitHub-Token-Authentication%EC%9C%BC%EB%A1%9C-%EB%B0%94%EA%BE%B8%EA%B8%B0)
 - [Java 기본 문법: 클래스와 객체 &lpar;Class and Objects&rpar;](https://velog.io/@minnczi/Java-%EA%B8%B0%EB%B3%B8-%EB%AC%B8%EB%B2%95-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80-%EA%B0%9D%EC%B2%B4-Class-and-Objects)
 - [Java 기본 문법: 배열&lpar;Array&rpar;](https://velog.io/@minnczi/Java-%EA%B8%B0%EB%B3%B8%EB%AC%B8%EB%B2%95-%EB%B0%B0%EC%97%B4)
-- [Java 기본 문법: 데이터 타입, 변수 &lpar;Data Type, Variables&rpar;](https://velog.io/@minnczi/Java-%EA%B8%B0%EB%B3%B8%EB%AC%B8%EB%B2%95-%EB%B3%80%EC%88%98-Variables)
 <!-- BLOG-POST-LIST:END -->
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=minnczi)](https://github.com/minnczi/minnczi)
