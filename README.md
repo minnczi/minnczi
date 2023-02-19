@@ -1,6 +1,6 @@
 ## Hi there 👋 My name is Minji Kim   
 
-- 😄  I am: A Software Engineer (+ with backgrounds in business and Human Computer Interaction(HCI))
+- 😄  I am: A Software Engineer (+ with backgrounds in Business and Human Computer Interaction(HCI))
 - 💬  My TIL Blog: https://velog.io/@minnczi
 - 💻  My Daily TIL Repository: https://github.com/minnczi/TIL
 
